@@ -1,0 +1,2 @@
+# server
+Prowire VPN server
